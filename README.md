@@ -57,7 +57,7 @@ When starting a new project, you can then
 2. Change the remote to your new repository.
    ```bash
    cd <new project directory>
-   git remote set-url remote <url to your new project remote.git>
+   git remote set-url origin <url to your new project remote.git>
    ```
 3. Reset to the root.
    ```bash
